@@ -7,7 +7,7 @@
 ### <div align="center">👨‍💻 I'm Alex, a passionate full-time application developer from Romania.</div>  
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Readme Quotes"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=Light" alt="Readme Quotes"/>
 </div> 
 
 - ⚽ I like to play football, tennis, volleyball and snooker in my spare time. I also enjoy cycling or running in park when the weather is good.
@@ -16,7 +16,7 @@
   
 - ⚡ Fun fact: I like snowboarding more than skiing.
 
-<h3 align="center">🛠️ Tech & Tools</h3>****
+<h3 align="center">🛠️ Tech & Tools</h3>
 
 <div align="center" style="witdh:100%"> 
   <table>
