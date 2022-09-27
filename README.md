@@ -14,6 +14,8 @@
 
 - 📚 When I'm not reading about new technology, I enjoy reading books on personal, spiritual, and professional development. 
   
+- 💻 I'm currently learning Kubernetes
+  
 - ⚡ Fun fact: I like snowboarding more than skiing.
 
 <h3 align="center">🛠️ Tech & Tools</h3>
