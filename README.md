@@ -25,7 +25,7 @@
   <table>
   <td colspan="3" style="text-align:center;"><h3 align="center">❤️ Tech Stack</h3></td>
   <tr>
-    <td style="text-align: center;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" height="50"><br>ReactJS</td>
+    <td style="text-align: center;"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" height="50"><br>ReactJS</td>
     <td style="text-align: center;"><img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" height="50"><br>NodeJS</td>
     <td style="text-align: center;"><img src="https://expressjs.com/images/express-facebook-share.png" height="50"><br>ExpressJS</td>
   </tr>
