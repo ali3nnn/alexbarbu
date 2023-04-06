@@ -23,7 +23,7 @@
 <div align="center" style="width:100%"> 
 
   <table>
-  <td align="center" colspan="3" ><h3 align="center">❤️ Tech Stack</h3></td>
+  <td align="center" colspan="3" ><h3 align="center">❤️ Tech Stack</h3></br></td>
   <tr>
     <td align="center" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" height="50"><br>ReactJS</td>
     <td align="center"><img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" height="50"><br>NodeJS</td>
@@ -35,7 +35,7 @@
     <td align="center"><img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png.webp" height="50">
   </tr>
   <tr>
-  <td align="center" colspan="3" ><h3 align="center">🛠️ Other Tools</h3></td>
+  <td align="center" colspan="3" ><h3 align="center">🛠️ Other Tools</h3></br></td>
   </tr>
   <tr>
     <td align="center"><img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" height="50">
@@ -51,7 +51,7 @@
     <td align="center" ><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.png" height="50"></td>
   </tr>
   <tr>
-  <td align="center" colspan="3" ><h3 align="center">🛠️ Databases</h3></td>
+  <td align="center" colspan="3" ><h3 align="center">🛠️ Databases</h3></br></td>
   </tr>
   <tr>
     <td align="center">
